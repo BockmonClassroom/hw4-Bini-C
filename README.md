@@ -14,7 +14,7 @@ Either create a markdown readme file that has a copy of your ER diagram and expl
 Please also submit a link to your github submission to Canvas as well. This helps the TA grade faster.
 
 
-##########################################################  PART 1  #######################################################
+############################### PART 1  ##################################
 
 In the Part1, I have performed data preprocessing on the Iris dataset by applying normalizationa nd standardization techniques to the numerical features of the dataset.
 
@@ -24,6 +24,7 @@ In the Part1, I have performed data preprocessing on the Iris dataset by applyin
 
     where Xmin and Xmax are the minimum and maximum values of each column, respectively.
     I have saved the normalized dataset as Normalized_Iris.csv.
+
     ![alt text](image-1.png)
 
 2. STANDARDIZATION:
@@ -32,5 +33,8 @@ In the Part1, I have performed data preprocessing on the Iris dataset by applyin
 
     where μ and σ and the mean and standard deviation of each column, respectively.
     I have saved the normalized dataset as Standardized_Iris.csv.
+
     ![alt text](image-2.png)
 
+
+############################### PART 2  ##################################
